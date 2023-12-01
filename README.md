@@ -1,12 +1,10 @@
-# Spring Boot Maven Example Hello World
+# Spring Boot Maven Test project for imaginnovate
 
 Guide
 
-This is a part of the tutorial http://javabycode.com/spring-framework-tutorial/spring-boot-tutorial/spring-boot-maven-example-hello-world.html
-
 What you'll need
 
-    JDK 1.7 or later
+    JDK 1.8 or later
     Maven 3 or later
     spring-boot 1.3.5.RELEASE
 
